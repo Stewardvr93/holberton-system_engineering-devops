@@ -1,1 +1,1 @@
-#betty es un usuario
+#betty is a crazy user
