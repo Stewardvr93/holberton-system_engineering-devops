@@ -1,2 +1,1 @@
-#Describiendo todo
-empezamos por 0-iam_betty
+Shell, Commands for permissions 

@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-chmod -R ugo-rwx */
-=======
-chmod -R a+X ./ 
->>>>>>> ad8658e6a6c91c188e34e0cd23b2750ad144392d
+chmod a+X *
