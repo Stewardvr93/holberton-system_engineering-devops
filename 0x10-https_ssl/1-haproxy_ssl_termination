@@ -38,7 +38,7 @@ frontend http_front
     default_backend http_back
 
 frontend www-https
-   bind *:443 ssl crt /etc/haproxy/certs/www.svaldezr93.tech
+   bind *:443 ssl crt /etc/haproxy/certs/www.svaldezr93.tech.pem
    default_backend http_back
 
 backend http_back
