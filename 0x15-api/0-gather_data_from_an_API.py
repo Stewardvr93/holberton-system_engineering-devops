@@ -3,9 +3,9 @@
 """Write a Python script that, using this REST API,
 and return information about the progress of your TODO list.."""
 if __name__ == "__main__":
-    import json
+    import request
     import sys
-    from urllib.request import urlopen
+   
 
     user = sys.argv[1]
     urlUser = 'https://jsonplaceholder.typicode.com/users/' + user
